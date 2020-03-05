@@ -1,0 +1,2 @@
+# Akinator-PY
+ Akintaro app
